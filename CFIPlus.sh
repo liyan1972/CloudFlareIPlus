@@ -1,6 +1,6 @@
 #!/bin/bash
 export LANG=zh_CN.UTF-8
-proxygithub="https://mirror.ghproxy.com/"
+proxygithub="https://ghfast.top/"
 port=443
 asn=209242
 ###############################################################以下脚本内容，勿动#######################################################################
